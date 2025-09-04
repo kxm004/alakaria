@@ -15,7 +15,7 @@
     "@types/three": "^0.177.0",
     "framer-motion": "^12.19.1",
     "gsap": "^3.13.0",
-    "lucide-react": "^0.344.0",
+    "lucide-react": "^0.468.0",
     "ogl": "^1.0.11",
     "react": "^19.1.0",
     "react-animated-3d-card": "^1.0.2",
